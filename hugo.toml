@@ -1,4 +1,4 @@
-baseURL = 'https://rt126.github.io'
+baseURL = 'https://rt126.github.io/songbook'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'RT126 Stockholm Globe'
 theme = 'hugo-book'
