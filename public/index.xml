@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 12:18:02 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test3</title>
+      <link>http://localhost:1313/docs/test3/</link>
+      <pubDate>Thu, 20 Jun 2024 12:18:02 +0200</pubDate>
+      <guid>http://localhost:1313/docs/test3/</guid>
+      <description>asdf asdf asdf asdf</description>
+    </item>
+    <item>
+      <title>Test2</title>
+      <link>http://localhost:1313/docs/test2/</link>
+      <pubDate>Thu, 20 Jun 2024 12:17:59 +0200</pubDate>
+      <guid>http://localhost:1313/docs/test2/</guid>
+      <description>asdfasdfasdfasdfasdc</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/docs/test/</link>
+      <pubDate>Thu, 20 Jun 2024 12:14:23 +0200</pubDate>
+      <guid>http://localhost:1313/docs/test/</guid>
+      <description>asdflökajsdflkjhasekuhfnla</description>
+    </item>
+  </channel>
+</rss>
